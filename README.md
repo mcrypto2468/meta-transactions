@@ -1,7 +1,6 @@
 # Metatransactions and Signature Replay Fix
 
-This repository contains contracts and tests for Using metatransaction to pay for your users' gas Lesson by **LearnWEB3**.
-
+This repository contains contracts and tests for "Using metatransaction to pay for your users' gas" Lesson by LearnWEB3. It implements Metatransactions and a fix for the Signature Replay vulnerability in Ethereum smart contracts
 ## Overview
 
 The repository is structured as follows:
